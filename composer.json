@@ -41,11 +41,5 @@
         "php",
         "api",
         "sdk"
-    ],
-    "replace": {
-        "heidelpay/php-api":"*"
-    },
-    "conflict": {
-        "heidelpay/php-api":"*"
-    }
+    ]
 }
